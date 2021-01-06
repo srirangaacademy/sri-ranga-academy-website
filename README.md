@@ -1,1 +1,1 @@
-# sri-ranga-academy-website
+# Sri Ranga Academy Of Fine Arts
