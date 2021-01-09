@@ -30,6 +30,7 @@ jobs:
         npm install
         npm run build --if-present
         npm test
+        echo 'srirangaacademy.org' > dist/CNAME
       env:
         CI: true
     - name: Deploy
