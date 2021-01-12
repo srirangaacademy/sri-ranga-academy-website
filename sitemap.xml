@@ -33,15 +33,16 @@
   </url>
   
   <url>
+    <loc>/modules/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
   </url>
   
   <url>
     <loc>/downloads/</loc>
-  </url>
-  
-  <url>
-    <loc>/modules/</loc>
   </url>
   
   <url>
