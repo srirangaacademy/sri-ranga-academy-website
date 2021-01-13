@@ -1,14 +1,14 @@
 {
   "cms": {
-    "js": "cms.js"
+    "js": "cms.73011.js"
   },
   "main": {
-    "css": "main.css",
-    "js": "main.js"
+    "css": "main.73011.css",
+    "js": "main.73011.js"
   },
   "": {
     "html": "admin/index.html",
-    "keep": "fonts/.keep",
-    "json": "20f782eee35bbe77e402.hot-update.json"
+    "txt": "cms.73011.js.LICENSE.txt",
+    "keep": "fonts/.keep"
   }
 }
